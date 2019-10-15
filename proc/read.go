@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ncabatoff/procfs"
+	"github.com/chensunny/procfs"
 )
 
 // ErrProcNotExist indicates a process couldn't be read because it doesn't exist,
