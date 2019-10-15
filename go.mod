@@ -9,8 +9,7 @@ require (
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
 	github.com/ncabatoff/fakescraper v0.0.0-20161023141611-15938421d91a
-	github.com/ncabatoff/go-seq v0.0.0-20180805175032-b08ef85ed833
-	github.com/ncabatoff/procfs v0.0.0-20190407151002-9ced60d7b905
+	github.com/ncabatoff/go-seq v0.0.0-20180805175032-b08ef85ed833	
 	github.com/prometheus/client_golang v0.8.0
 	github.com/prometheus/client_model v0.0.0-20180712105110-5c3871d89910 // indirect
 	github.com/prometheus/common v0.0.0-20180801064454-c7de2306084e // indirect
